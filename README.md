@@ -16,3 +16,13 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+- body-parser
+- chance
+- timeago.js
+- md5
+
+## Screenshots
+
+![Screenshot of desktop Tweets+Compose box](https://github.com/Leelamprey/tweeter/blob/master/docs/basetweet.png?raw=true)
+![Screenshot of mobile tweets+compose box](https://github.com/Leelamprey/tweeter/blob/master/docs/mobiletweet.png?raw=true)
+![Screenshot of Error message](https://github.com/Leelamprey/tweeter/blob/master/docs/errortweet.png?raw=true)
