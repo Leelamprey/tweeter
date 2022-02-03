@@ -1,0 +1,38 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 120px;
+  background-color: #4056a1;
+  color: #ffffff;
+  padding: 1.5em;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+}
+nav > span {
+  font-family: "Bungee", sans-serif;
+  font-size: 2em;
+}
+.writeTweet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  font-size: 1em;
+}
+.bold {
+  font-weight: 600;
+}
+.arrow {
+  font-size: 20px;
+  color: red;
+}
+
+@media only screen and (min-width: 1024px) {
+  nav {
+    background-color: #4056A1;
+    background-image: none;
+  }
+}
